@@ -81,10 +81,12 @@
               Console.WriteLine(LeapYear.IfYearIsLeap(1412)); // True
               Console.WriteLine(LeapYear.IfYearIsLeap(1582)); // False*/
             // problem 16
-            Console.WriteLine(IfnumberContain3.IfNumberContains3(5384562)); 
+           /* Console.WriteLine(IfnumberContain3.IfNumberContains3(5384562)); 
             Console.WriteLine(IfnumberContain3.IfNumberContains3(0));       
-            Console.WriteLine(IfnumberContain3.IfNumberContains3(390462));  
+            Console.WriteLine(IfnumberContain3.IfNumberContains3(390462));*/
 
+            //problem 17
+            MultiplicationTable.Multiplicationtable();
 
         }
 
