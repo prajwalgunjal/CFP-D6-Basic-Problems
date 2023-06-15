@@ -40,12 +40,17 @@
             Console.WriteLine(swapTwoNos.SwapTwoNumbers(0, 333));*/
 
             //problem8 
-            Console.WriteLine(Absolute.AbsoluteValue(-690543));  // 690543
-            Console.WriteLine(Absolute.AbsoluteValue(2744));     // 2744
-            Console.WriteLine(Absolute.AbsoluteValue(0));        // 0           
-            Console.WriteLine(Absolute.AbsoluteValue(-23));      // 23
+            /*Console.WriteLine(Absolute.AbsoluteValue(-690543));  
+            Console.WriteLine(Absolute.AbsoluteValue(2744));     
+            Console.WriteLine(Absolute.AbsoluteValue(0));        
+            Console.WriteLine(Absolute.AbsoluteValue(-23));      */
 
-            
+            //problem 9
+            Console.WriteLine(Capital.IfConsistsOfUppercaseLetters("drY")); 
+            Console.WriteLine(Capital.IfConsistsOfUppercaseLetters("LOL")); 
+            Console.WriteLine(Capital.IfConsistsOfUppercaseLetters("N0t")); 
+            Console.WriteLine(Capital.IfConsistsOfUppercaseLetters("$1r")); 
+
         }
 
     }
