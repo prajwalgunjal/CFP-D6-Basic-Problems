@@ -57,13 +57,13 @@
             Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { 11, 15, 166 })); */  // False
 
             // problem  11
-            Console.WriteLine(evenNumber.IfNumberIsEven(8));          // True
-            Console.WriteLine(evenNumber.IfNumberIsEven(54749));      // False
+            /*Console.WriteLine(evenNumber.IfNumberIsEven(8));          // True
+            Console.WriteLine(evenNumber.IfNumberIsEven(54749));      // False*/
 
             // problem 12
-            /*Console.WriteLine(sorted.IfSortedAscending(new int[] { 3, 6, 9 })); // True
+            Console.WriteLine(sorted.IfSortedAscending(new int[] { 3, 6, 9 })); // True
             Console.WriteLine(sorted.IfSortedAscending(new int[] { 34, 17, 90 })); // False
-            Console.WriteLine(sorted.IfSortedAscending(new int[] { -50, -24, -1 })); // True*/
+            Console.WriteLine(sorted.IfSortedAscending(new int[] { -50, -24, -1 })); // True
 
             // problem 13
             /* Console.WriteLine(neighbour.IfHasNeighbour("DCA")); // True
