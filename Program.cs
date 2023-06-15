@@ -133,7 +133,10 @@
             //DrawHourGlass.DrawHourglass();
 
             // problem 26
-            Parallelogram.DrawParallelogram();
+            //Parallelogram.DrawParallelogram();
+
+            //problem 27
+            DrawTree.DrawChristmasTree();
     }
 
     }
