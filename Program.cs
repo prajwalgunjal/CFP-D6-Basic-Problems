@@ -82,20 +82,28 @@
               Console.WriteLine(LeapYear.IfYearIsLeap(1582)); // False*/
 
             // problem 16
-           /* Console.WriteLine(IfnumberContain3.IfNumberContains3(5384562)); 
-            Console.WriteLine(IfnumberContain3.IfNumberContains3(0));       
-            Console.WriteLine(IfnumberContain3.IfNumberContains3(390462));*/
+            /* Console.WriteLine(IfnumberContain3.IfNumberContains3(5384562)); 
+             Console.WriteLine(IfnumberContain3.IfNumberContains3(0));       
+             Console.WriteLine(IfnumberContain3.IfNumberContains3(390462));*/
 
             //problem 17
             //MultiplicationTable.Multiplicationtable();
 
             //problem 18
-            Console.WriteLine(FractionSum. FractionsSum(2)); 
+            /*Console.WriteLine(FractionSum. FractionsSum(2)); 
             Console.WriteLine(FractionSum.FractionsSum(7));  
-            Console.WriteLine(FractionSum.FractionsSum(10)); 
+            Console.WriteLine(FractionSum.FractionsSum(10)); */
 
-            
-        }
+            // problem 19
+            int[] sortedArr = sortArray.SortArrayAscending(new int[] { 0, -23, 9, 18, -51, 1, 90, 57, -1, 25 });
+
+            foreach (var s in sortedArr)
+            {
+                Console.Write($"{s} "); // -51 -23 -1 0 1 9 18 25 57 90
+            }
+        
+
+    }
 
     }
 }
