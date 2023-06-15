@@ -10,10 +10,13 @@
              Console.WriteLine(sum);*/
 
             // problem 2
-            Celsius_to_Fahrenheit celsius_To_Fahrenheit = new Celsius_to_Fahrenheit();
+            /*Celsius_to_Fahrenheit celsius_To_Fahrenheit = new Celsius_to_Fahrenheit();
             celsius_To_Fahrenheit.Findcelsius(0);
             celsius_To_Fahrenheit.Findcelsius(-800);
-            celsius_To_Fahrenheit.Findcelsius(22.5);
+            celsius_To_Fahrenheit.Findcelsius(22.5);*/
+
+            //problem 3
+            Console.WriteLine(ElementryOperations.ElementaryOperations(36,15));
         }
     }
 }
