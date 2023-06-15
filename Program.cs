@@ -121,15 +121,16 @@
             //Console.WriteLine(returnEven. ReturnEvenNumbers());
 
             // problem 24
-            var arrayOfPrimes = Eratosthenes. SieveOfEratosthenes(100);
-            for (int i = 0; i < arrayOfPrimes.Length; i++)
-            {
-                if (arrayOfPrimes[i] != false)
-                {
-                    Console.Write($"{i} "); 
-                }
-            }
-
+            /* var arrayOfPrimes = Eratosthenes. SieveOfEratosthenes(100);
+             for (int i = 0; i < arrayOfPrimes.Length; i++)
+             {
+                 if (arrayOfPrimes[i] != false)
+                 {
+                     Console.Write($"{i} "); 
+                 }
+             }*/
+            // problem 25
+            DrawHourGlass.DrawHourglass();
     }
 
     }
