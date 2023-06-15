@@ -52,13 +52,13 @@
             Console.WriteLine(Capital.IfConsistsOfUppercaseLetters("$1r")); */
 
             // problem 10
-            Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { 10, 5, 22 }));     // True
+            /*Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { 10, 5, 22 }));     // True
             Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { -15, -25, 100 })); // True
-            Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { 11, 15, 166 }));   // False
+            Console.WriteLine(greater.IfGreaterThanThirdOne(new int[] { 11, 15, 166 })); */  // False
 
             // problem  11
-            /*Console.WriteLine(evenNumber.IfNumberIsEven(8));          // True
-            Console.WriteLine(evenNumber.IfNumberIsEven(54749));      // False*/
+            Console.WriteLine(evenNumber.IfNumberIsEven(8));          // True
+            Console.WriteLine(evenNumber.IfNumberIsEven(54749));      // False
 
             // problem 12
             /*Console.WriteLine(sorted.IfSortedAscending(new int[] { 3, 6, 9 })); // True
