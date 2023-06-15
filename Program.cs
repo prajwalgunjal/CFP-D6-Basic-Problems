@@ -61,18 +61,18 @@
             Console.WriteLine(evenNumber.IfNumberIsEven(54749));      // False*/
 
             // problem 12
-/*            Console.WriteLine(sorted.IfSortedAscending(new int[] { 3, 6, 9 })); // True
-            Console.WriteLine(sorted.IfSortedAscending(new int[] { 34, 17, 90 })); // False
-            Console.WriteLine(sorted.IfSortedAscending(new int[] { -50, -24, -1 })); // True*/
+            /*            Console.WriteLine(sorted.IfSortedAscending(new int[] { 3, 6, 9 })); // True
+                        Console.WriteLine(sorted.IfSortedAscending(new int[] { 34, 17, 90 })); // False
+                        Console.WriteLine(sorted.IfSortedAscending(new int[] { -50, -24, -1 })); // True*/
 
             // problem 13
-            Console.WriteLine(neighbour.IfHasNeighbour("DCA")); // True
-            Console.WriteLine(neighbour.IfHasNeighbour("PRT")); // False
+            /*Console.WriteLine(neighbour.IfHasNeighbour("DCA")); // True
+            Console.WriteLine(neighbour.IfHasNeighbour("PRT")); // False*/
 
             // problem 14
-            /*Console.WriteLine(positivenegzero. PositiveNegativeOrZero(3.14)); // Positive
+            Console.WriteLine(positivenegzero.PositiveNegativeOrZero(3.14)); // Positive
             Console.WriteLine(positivenegzero.PositiveNegativeOrZero(0.0)); // Zero
-            Console.WriteLine(positivenegzero.PositiveNegativeOrZero(-200.003)); // Negative*/
+            Console.WriteLine(positivenegzero.PositiveNegativeOrZero(-200.003)); // Negative
 
             // problem 15
             /* Console.WriteLine(LeapYear.IfYearIsLeap(2020)); // True
