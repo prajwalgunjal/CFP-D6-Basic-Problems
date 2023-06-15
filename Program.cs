@@ -95,15 +95,17 @@
             Console.WriteLine(FractionSum.FractionsSum(10)); */
 
             // problem 19
-            int[] sortedArr = sortArray.SortArrayAscending(new int[] { 0, -23, 9, 18, -51, 1, 90, 57, -1, 25 });
+            /*int[] sortedArr = sortArray.SortArrayAscending(new int[] { 0, -23, 9, 18, -51, 1, 90, 57, -1, 25 });
 
             foreach (var s in sortedArr)
             {
                 Console.Write($"{s} "); // -51 -23 -1 0 1 9 18 25 57 90
-            }
-        
-
-    }
+            }*/
+            // problem 20
+            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 9, 4, 8, 1, 0, 2 }));                   // 9
+            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { -34, -54, -7, -40, -123, -99 }));       // -7
+            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 1009, 998, 1090, 3000, 2934, 4888 }));  // 4888
+        }
 
     }
 }
