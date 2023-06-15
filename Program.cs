@@ -118,9 +118,19 @@
                         Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 15, 17, 14, 11, 18, 19, 16, 16 }));*/
 
             // problem 23
-            Console.WriteLine(returnEven. ReturnEvenNumbers());
+            //Console.WriteLine(returnEven. ReturnEvenNumbers());
 
-        }
+            // problem 24
+            var arrayOfPrimes = Eratosthenes. SieveOfEratosthenes(100);
+            for (int i = 0; i < arrayOfPrimes.Length; i++)
+            {
+                if (arrayOfPrimes[i] != false)
+                {
+                    Console.Write($"{i} "); 
+                }
+            }
+
+    }
 
     }
 }
