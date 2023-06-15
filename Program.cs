@@ -35,9 +35,18 @@
             Console.WriteLine(Cube.TheCubeOf(-0.1));*/
 
             //PRoblem 7 
-            Console.WriteLine(swapTwoNos.SwapTwoNumbers(23, 15));      
+            /*Console.WriteLine(swapTwoNos.SwapTwoNumbers(23, 15));      
             Console.WriteLine(swapTwoNos.SwapTwoNumbers(-123, 999));   
-            Console.WriteLine(swapTwoNos.SwapTwoNumbers(0, 333));
+            Console.WriteLine(swapTwoNos.SwapTwoNumbers(0, 333));*/
+
+            //problem8 
+            Console.WriteLine(Absolute.AbsoluteValue(-690543));  // 690543
+            Console.WriteLine(Absolute.AbsoluteValue(2744));     // 2744
+            Console.WriteLine(Absolute.AbsoluteValue(0));        // 0           
+            Console.WriteLine(Absolute.AbsoluteValue(-23));      // 23
+
+            
         }
+
     }
 }
