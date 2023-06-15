@@ -113,11 +113,12 @@
              Console.WriteLine(TwoSeven.Two7sNextToEachOther(new int[] { 7, 7, 7, 0, 2, 6, 4, 8, 6, 5, 2, 7, 7 }));
  */
             // prob,lem 22
-            Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 7, 8, 9, 2, 4, 5, 0 }));                // True
-            Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { -9, 0, -1, -6, -5, -4, -8, 0 }));       // True
-            Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 15, 17, 14, 11, 18, 19, 16, 16 }));
+            /*            Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 7, 8, 9, 2, 4, 5, 0 }));                // True
+                        Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { -9, 0, -1, -6, -5, -4, -8, 0 }));       // True
+                        Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 15, 17, 14, 11, 18, 19, 16, 16 }));*/
 
-
+            // problem 23
+            Console.WriteLine(returnEven. ReturnEvenNumbers());
 
         }
 
