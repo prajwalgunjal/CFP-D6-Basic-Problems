@@ -19,9 +19,20 @@
             //Console.WriteLine(ElementryOperations.ElementaryOperations(36,15));
 
             // problem 4
-            Console.WriteLine(issameResult.IsResultTheSame(3 * 3, 18 / 2));           // True
-            Console.WriteLine(issameResult.IsResultTheSame(3 + 7, 12 - 8));           // False
-            Console.WriteLine(issameResult.IsResultTheSame(3 * 7 * 8, 256 / 2 / 3));  // False
+            /* Console.WriteLine(issameResult.IsResultTheSame(3 * 3, 18 / 2));
+             Console.WriteLine(issameResult.IsResultTheSame(3 + 7, 12 - 8));           
+             Console.WriteLine(issameResult.IsResultTheSame(3 * 7 * 8, 256 / 2 / 3));  */
+
+            //problem 5
+            /*Console.WriteLine(ModuloOperation.ModuloOperations(542, 28, 7));    
+            Console.WriteLine(ModuloOperation.ModuloOperations(33, 10, 2));     
+            Console.WriteLine(ModuloOperation.ModuloOperations(2634, 892, 55)); */
+
+            //problem 6
+            Console.WriteLine(Cube.TheCubeOf(15));
+            Console.WriteLine(Cube.TheCubeOf(0.25));  
+            Console.WriteLine(Cube.TheCubeOf(-12));
+            Console.WriteLine(Cube.TheCubeOf(-0.1));
         }
     }
 }
