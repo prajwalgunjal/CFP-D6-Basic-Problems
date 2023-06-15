@@ -75,11 +75,11 @@
             Console.WriteLine(positivenegzero.PositiveNegativeOrZero(-200.003)); // Negative
 
             // problem 15
-            /* Console.WriteLine(LeapYear.IfYearIsLeap(2020)); // True
-             Console.WriteLine(LeapYear.IfYearIsLeap(1719)); // False
-             Console.WriteLine(LeapYear.IfYearIsLeap(2000)); // True
-             Console.WriteLine(LeapYear.IfYearIsLeap(1412)); // True
-             Console.WriteLine(LeapYear.IfYearIsLeap(1582)); // False*/
+            Console.WriteLine(LeapYear.IfYearIsLeap(2020)); // True
+            Console.WriteLine(LeapYear.IfYearIsLeap(1719)); // False
+            Console.WriteLine(LeapYear.IfYearIsLeap(2000)); // True
+            Console.WriteLine(LeapYear.IfYearIsLeap(1412)); // True
+            Console.WriteLine(LeapYear.IfYearIsLeap(1582)); // False
 
         }
 
