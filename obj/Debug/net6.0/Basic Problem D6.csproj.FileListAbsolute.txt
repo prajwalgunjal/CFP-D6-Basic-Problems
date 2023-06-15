@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\bin\Debug\net6.0\Basic Problem D6.exe
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\bin\Debug\net6.0\Basic Problem D6.deps.json
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\bin\Debug\net6.0\Basic Problem D6.runtimeconfig.json
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\bin\Debug\net6.0\Basic Problem D6.dll
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\bin\Debug\net6.0\Basic Problem D6.pdb
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.AssemblyInfo.cs
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.dll
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\refint\Basic Problem D6.dll
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.pdb
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\Basic Problem D6.genruntimeconfig.cache
+C:\Users\prajw\source\repos\Basic Problem D6\Basic Problem D6\obj\Debug\net6.0\ref\Basic Problem D6.dll
