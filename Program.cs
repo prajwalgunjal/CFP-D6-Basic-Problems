@@ -29,10 +29,15 @@
             Console.WriteLine(ModuloOperation.ModuloOperations(2634, 892, 55)); */
 
             //problem 6
-            Console.WriteLine(Cube.TheCubeOf(15));
+            /*Console.WriteLine(Cube.TheCubeOf(15));
             Console.WriteLine(Cube.TheCubeOf(0.25));  
             Console.WriteLine(Cube.TheCubeOf(-12));
-            Console.WriteLine(Cube.TheCubeOf(-0.1));
+            Console.WriteLine(Cube.TheCubeOf(-0.1));*/
+
+            //PRoblem 7 
+            Console.WriteLine(swapTwoNos.SwapTwoNumbers(23, 15));      
+            Console.WriteLine(swapTwoNos.SwapTwoNumbers(-123, 999));   
+            Console.WriteLine(swapTwoNos.SwapTwoNumbers(0, 333));
         }
     }
 }
