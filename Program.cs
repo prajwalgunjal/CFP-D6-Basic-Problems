@@ -102,9 +102,23 @@
                 Console.Write($"{s} "); // -51 -23 -1 0 1 9 18 25 57 90
             }*/
             // problem 20
-            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 9, 4, 8, 1, 0, 2 }));                   // 9
-            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { -34, -54, -7, -40, -123, -99 }));       // -7
-            Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 1009, 998, 1090, 3000, 2934, 4888 }));  // 4888
+            /* Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 9, 4, 8, 1, 0, 2 }));                   // 9
+             Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { -34, -54, -7, -40, -123, -99 }));       // -7
+             Console.WriteLine(Biggestnumber.TheBiggestNumber(new int[] { 1009, 998, 1090, 3000, 2934, 4888 }));  // 4888
+ */
+            // problem 21
+
+            Console.WriteLine(TwoSeven.Two7sNextToEachOther(new int[] { 7, 7, 8, 4, 3, 7, 2, 1, 0, 7 }));
+            Console.WriteLine(TwoSeven.Two7sNextToEachOther(new int[] { 4, 7, 8, 2, 0, 5, 2, 7, 5, 8 }));
+            Console.WriteLine(TwoSeven.Two7sNextToEachOther(new int[] { 7, 7, 7, 0, 2, 6, 4, 8, 6, 5, 2, 7, 7 }));
+
+            // prob,lem 22
+            /* Console.WriteLine(greaterAdjacentNumber. ThreeIncreasingAdjacent(new int[] { 7, 8, 9, 2, 4, 5, 0 }));                // True
+             Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { -9, 0, -1, -6, -5, -4, -8, 0 }));       // True
+             Console.WriteLine(greaterAdjacentNumber.ThreeIncreasingAdjacent(new int[] { 15, 17, 14, 11, 18, 19, 16, 16 }));
+ */
+
+
         }
 
     }
