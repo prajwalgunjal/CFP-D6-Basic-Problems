@@ -139,16 +139,18 @@
             //DrawTree.DrawChristmasTree();
 
             //problem 28
-            Console.WriteLine(ExtractString.Extractstring("kFp##jFoRj##pL")); 
+          /*  Console.WriteLine(ExtractString.Extractstring("kFp##jFoRj##pL")); 
             Console.WriteLine(ExtractString.Extractstring("abc##def"));       
             Console.WriteLine(ExtractString.Extractstring("##123456789##"));  
             Console.WriteLine(ExtractString.Extractstring("no####thing"));    
-            Console.WriteLine(ExtractString.Extractstring("empty"));          
-            
+            Console.WriteLine(ExtractString.Extractstring("empty"));
+*/
             //problem 29
+            Console.WriteLine(Fullseq.FullSequenceOfLetters("bg")); // bcdefg
+            Console.WriteLine(Fullseq.FullSequenceOfLetters("xy")); // xy            
+            Console.WriteLine(Fullseq.FullSequenceOfLetters("az")); // abcdefghijklmnopqrstuvwxyz
 
-            
-    }
+        }
 
     }
 }
