@@ -130,7 +130,10 @@
                  }
              }*/
             // problem 25
-            DrawHourGlass.DrawHourglass();
+            //DrawHourGlass.DrawHourglass();
+
+            // problem 26
+            Parallelogram.DrawParallelogram();
     }
 
     }
