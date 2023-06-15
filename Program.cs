@@ -16,7 +16,12 @@
             celsius_To_Fahrenheit.Findcelsius(22.5);*/
 
             //problem 3
-            Console.WriteLine(ElementryOperations.ElementaryOperations(36,15));
+            //Console.WriteLine(ElementryOperations.ElementaryOperations(36,15));
+
+            // problem 4
+            Console.WriteLine(issameResult.IsResultTheSame(3 * 3, 18 / 2));           // True
+            Console.WriteLine(issameResult.IsResultTheSame(3 + 7, 12 - 8));           // False
+            Console.WriteLine(issameResult.IsResultTheSame(3 * 7 * 8, 256 / 2 / 3));  // False
         }
     }
 }
